@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aryamanp13
-- 👀 I’m interested in ... electronic counters and digital ic's
+- 👀 I’m interested in ... chess
 - 🌱 I’m currently learning ... electronics and telecommunications 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... email: aryamansp13@gmail.com
