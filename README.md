@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @aryamanp13
-- 👀 I’m interested in ... chess
-- 🌱 I’m currently learning ... electronics and telecommunications 
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... email: aryamansp13@gmail.com
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... i love french fries
+- Hi, I’m Aryaman 
+- I’m interested in: chess, classical music, art
+- I’m currently perusing: electronics and telecom
+- email: aryamansp13@gmail.com
+- Pronouns: he/him
 
 <!---
 aryamanp13/aryamanp13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
